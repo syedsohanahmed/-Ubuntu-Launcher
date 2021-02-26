@@ -1,4 +1,4 @@
-# Ubuntu Launcher
+# Ubuntu Launcher by sosax
 
 It's a custom lightweight android launcher.
 
